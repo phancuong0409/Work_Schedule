@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\bin\Debug\Work Schedule.exe.config
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\bin\Debug\Work Schedule.exe
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\bin\Debug\Work Schedule.pdb
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work Schedule.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work_Schedule.Form1.resources
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work_Schedule.Properties.Resources.resources
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work Schedule.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work Schedule.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work Schedule.exe
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work Schedule.pdb
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work_Schedule.AJob.resources
+C:\Users\Admin\source\repos\Work Schedule\Work Schedule\obj\Debug\Work_Schedule.DailyPlan.resources
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work Schedule.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work_Schedule.AJob.resources
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work_Schedule.DailyPlan.resources
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work_Schedule.Form1.resources
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work_Schedule.Properties.Resources.resources
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work Schedule.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work Schedule.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work Schedule.exe
+C:\Users\Admin\Desktop\Work Schedule\obj\Debug\Work Schedule.pdb
+C:\Users\Admin\Desktop\Work Schedule\bin\Debug\Work Schedule.exe.config
+C:\Users\Admin\Desktop\Work Schedule\bin\Debug\Work Schedule.exe
+C:\Users\Admin\Desktop\Work Schedule\bin\Debug\Work Schedule.pdb

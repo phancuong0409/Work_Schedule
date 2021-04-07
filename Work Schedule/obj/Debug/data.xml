@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <PlanItem>
+      <Date>2021-04-07T10:44:52.6161022+07:00</Date>
+      <Job>Học Lập trình Windows</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>5</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2021-04-08T10:44:52.6161022+07:00</Date>
+      <Job>Học Phân tích thiết kế hệ thống</Job>
+      <FromTime>
+        <X>5</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>6</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+  </Job>
+</PlanData>
